@@ -1,0 +1,6 @@
+[submodule "vendor/plenary.nvim"]
+	path = vendor/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim
+[submodule "vendor/claude-code.nvim"]
+	path = vendor/claude-code.nvim
+	url = https://github.com/greggh/claude-code.nvim
