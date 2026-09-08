@@ -8,6 +8,9 @@ Plug drlinggg/claude-code.vim
 :PlugInstall
 
 
+
 hotkeys:
+
 nnoremap <silent> <leader>ci :ClaudeHorizontal<CR>
+
 nnoremap <silent> <leader>cv :ClaudeVertical<CR>
